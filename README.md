@@ -73,7 +73,7 @@ Now we need to install the PK12 client certificate we generated.
 1. Goto your ```http request``` node
 ![](docs/nr_req.png)
 
-|-|-|
+
 |Setting|Value|
 |-|-|
 |Method| Get |
@@ -86,7 +86,7 @@ Now we need to install the PK12 client certificate we generated.
 2. Hit the edit ```TLS Configuration``` 🖋 button
 ![](docs/nr_ssl.png)
 
-|-|-|
+
 |Setting|Value|
 |-|-|
 |certificate| [path to ```client-cert.pem```] |
